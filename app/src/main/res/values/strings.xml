@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Praktinis2</string>
+    <string name="Btn_Count_Caption">Count</string>
+    <string name="Name">Text</string>
+    <string name="pradinis_txt">Hello!</string>
+    <string name="chars_caption">Chars</string>
+    <string-array name="SelectionOptions">
+        <item>Chars</item>
+        <item>Words</item>
+    </string-array>
+</resources>
